@@ -5,7 +5,7 @@ To change the values (numbers) you need to edit the python file!
 
 How to download matplotlib:
 
-1. Open your Code editor
+1. Open you statistic.py in your code editor
 
 2. Open the terminal
 
