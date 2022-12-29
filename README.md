@@ -3,7 +3,9 @@ Numbers to Diagram is a application which can create diagrams from numbers.
 
 To change the values (numbers) you need to edit the python file!
 
-
+How to download matplotlib:
+import
+matplotlib.pyplot as pit
 
 
 
