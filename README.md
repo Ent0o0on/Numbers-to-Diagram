@@ -10,8 +10,7 @@ How to download matplotlib:
 2. Open the terminal
 
 3. write this
-import
-matplotlib.pyplot as pit
+pip install matplotlib
 
 
 
